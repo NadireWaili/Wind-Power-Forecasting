@@ -1,6 +1,5 @@
 """
-Corrected Wind Power Prediction using LSTM
-This script resolves all data leakage, indexing, deprecation, and modeling bugs found in P1.ipynb.
+ Wind Power Prediction using LSTM
 Supports TensorFlow / Keras if installed, or PyTorch if installed.
 """
 
